@@ -7,12 +7,12 @@ html {
 
 body{
   
-	background: url("D:\\GameDev\\The Complete Web Developer in 2023 Zero to Mastery\\++ My work\\8 - Bootstrap\\My_Startup\\sky-afterglow-cable-stayed-bridge-bridge-sunset-dusk-1625082-pxhere.com.jpg") no-repeat center center fixed;
+	background: url("Nordhordlandsbrua-3.png") no-repeat center center fixed;
 	-webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  color:rgb(205, 254, 232);
+  
   
   
 }
@@ -62,7 +62,6 @@ hr{
 h1{
   margin-left: 10px;
   margin-bottom: 45px;
-  font-weight: bolder;
   font-size: 7.5rem;
 }
 
@@ -71,7 +70,6 @@ h1{
   font-size: 2rem;
 }
 #ford{
-  margin-top: 2px;
+  margin-top:10px;
   font-size: 2rem;
 }
-
